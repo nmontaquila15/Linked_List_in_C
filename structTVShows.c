@@ -1,5 +1,6 @@
 #include <stdlib.h>
 #include <stdio.h>
+#include <string.h>
 
 typedef struct TV_Program // define structure for TV_Program
 {
